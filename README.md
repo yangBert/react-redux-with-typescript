@@ -1,10 +1,7 @@
-# TypeScript+React+Redux Example
+# TypeScript+React+Redux 案例
 
 使用TypeScript开发react项目，Redux案例
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### 运行： `npm start`
 
